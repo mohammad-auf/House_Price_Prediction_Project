@@ -1,0 +1,17 @@
+['LinearRegression', [-1.6638959153486025e+25]]
+
+['SGDRegressor', [-779.6393572170682]]
+
+['KNeighborsRegressor', [0.7422687541946876]]
+
+['SVR', [-0.053004622418157475]]
+
+['DecisionTreeRegressor', [0.7494071705989335]]
+
+['GradientBoostingRegressor', [0.9193128270813157]]
+
+['RandomForestRegressor', [0.8987337723746468]]
+
+['XGBRegressor', [0.896141917105376]]
+
+['GradientBoostingRegressor (Hyper parameter tuning)', [0.9236161811197097]]
